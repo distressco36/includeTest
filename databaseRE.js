@@ -4,7 +4,7 @@ const globalDatabase = [
       embedded: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d838.5639559518333!2d-79.94139337081276!3d32.785475426282716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88fe7a154fb52f59%3A0x94c2418d3027e559!2s18%20Duncan%20St%2C%20Charleston%2C%20SC%2029403%2C%20USA!5e0!3m2!1sen!2sca!4v1634866969119!5m2!1sen!2sca",
       address: "18 Duncan St #A, Charleston, SC 29403",
       city: "Detailed Info",
-      listingTags: "featured 29403",
+      listingTags: "featured 29403 18 Duncan St #A, Charleston, SC 29403",
       gallery: ["71261d07bbe21aa4170ed5af79a657db","abbc5b649cda723b2e99da42f391e400","f10e23c069c1936deb5f369b87e221ed","cfcadc498cacc99036341e2ff2e55d17",
                 "4397a3b976ab79f8de8488c13db0bd42","21526a282b1dc22e500b0c3b4b4bd833","86ffa4e5eba4ef369c9dfe901a3d50bd","c30c13f759f939593fbb3d0f64020b84",
                 "e882dd6f15827e069a63a4f239e31309","174fb03a55ecbe2da518fd458358e722","3c10bcb790976666f48ce3535ea911e9","cf3142280cadf4f41ce65aa31e1006d0",
