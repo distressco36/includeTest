@@ -25,7 +25,7 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
     //console.log(searchV.toString());
     var found = globalDatabase.filter(house => house.address.includes(searchV));
     window.alert(found[0].address);
-    if(found.length == 0) {console.log("Didn't find anything"); console.log('searchV'); return;}
+    if(found.length == 0) {console.log("Didn't find anything"); console.log("searchV"); return;}
     else {
       for(var i = 0; i < found.length; i++)
         {
