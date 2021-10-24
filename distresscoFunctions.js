@@ -22,9 +22,9 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
     }
     var searchval = document.getElementById('filt');
     var searchV = searchval.value;
-    console.log(searchV.toString());
+   
     var found = globalDatabase.filter(house => house.address.includes(searchV));
-    window.alert(found[0].address);
+    
     if(found.length == 0) {console.log("Didnt find anything"); return;}
     else {
       for(var i = 0; i < found.length; i++)
