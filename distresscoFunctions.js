@@ -129,13 +129,6 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
     return;
   }
 
-  function makeOffer(particularbutton) {
-    
-    window.alert(particularbutton);
-    
-    return;
-  }
-
   function displayGallery(listingref) {
 
     var houseSelected = globalDatabase.find(house => house.listingRef.includes(listingref));
