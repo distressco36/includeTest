@@ -109,21 +109,5 @@ const globalDatabase = [
                 "0ada56c5a3fabc0567dcbc62f47ea5c4","9a6bbfd16eaae6bfa9783bfedb88f7ea","d1ffca96b9eccc948775e56cf8b41ac5"],
       bed: "4",bath: "3",park: "",sqft: "2235",circa: "2015",price: "499500",certified: "",
       description: "Great Home in a desirable and convenient Johns Island location.  This 4 Bed 2.5 Bath, 2 Garage, home backs to a pond, with screened in porch, fully fenced backyard.  Enter the home from the front porch into a large Family Room with Fireplace and wood floors.  This opens to a big eat-in Kitchen that includes SS Appliances, Granite counters, subway tile backsplash. On the first floor is a large master bedroom with a full bath and walk-in closet.  Powder room and walk-in Laundryroom also on the main floor, as well as the attached 2 car Garage.  Upstairs include another full bath and two large bedrooms, and a huge fourth bedroom / FROG.   The small quiet neighborhood or Fenwick Woods, just minutes from great new restaurants and retail, and a short drive to Charleston, Folly Beach, or Kiawah."
-    },
-    {
-      listingRef: "LDB29403018DUN",
-      embedded: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d838.5639559518333!2d-79.94139337081276!3d32.785475426282716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88fe7a154fb52f59%3A0x94c2418d3027e559!2s18%20Duncan%20St%2C%20Charleston%2C%20SC%2029403%2C%20USA!5e0!3m2!1sen!2sca!4v1634866969119!5m2!1sen!2sca",
-      address: "18 Duncan St #A, Charleston, SC 29403",
-      city: "Detailed Info",
-      listingTags: "featured 29403 18 Duncan St #A, Charleston, SC 29403",
-      gallery: ["71261d07bbe21aa4170ed5af79a657db","abbc5b649cda723b2e99da42f391e400","f10e23c069c1936deb5f369b87e221ed","cfcadc498cacc99036341e2ff2e55d17",
-                "4397a3b976ab79f8de8488c13db0bd42","21526a282b1dc22e500b0c3b4b4bd833","86ffa4e5eba4ef369c9dfe901a3d50bd","c30c13f759f939593fbb3d0f64020b84",
-                "e882dd6f15827e069a63a4f239e31309","174fb03a55ecbe2da518fd458358e722","3c10bcb790976666f48ce3535ea911e9","cf3142280cadf4f41ce65aa31e1006d0",
-                "015a2fd84f961cf03bb8e0fd69315a83","9d8867828e414c1bac2da8848692b2cf","cc30110f1bc9e2915d1841d11b030970","e37c4cc7d35c0c5af5da155ccf0cdb08",
-                "cd341b52b6a6a9a6e0ed06a4882bbd9f","64ebf491545ce39b587cb5d5830745eb" ,"b2ec69ea88b83801364ef97ed5cb4de9","49e8dbbbba6e379af2be3fbbafd8e7f5",
-                "939e5aa83782e8e44dcc31d965294879","13212e2555276c29308b5f7f380305e8","8fc6b30a455202a9d462c61e76d32abe","2758a960092f901b0cb9da784a935d37",
-                "8ff58a05fe31a3aedec9a4676dc8ac80","ed368c4df62a6249c2d0094c002f557c","142d067b8f4cb0b754a1ea7362d00aa5"],
-      bed: "3",bath: "2",park: "2",sqft: "1080",circa: "1858",price: "625000",certified: "",
-      description: "This beautiful downtown, DETACHED HOME is a short walk to COLLEGE OF CHARLESTON, MUSC, and NUMEROUS DOWNTOWN SHOPS and RESTAURANTS! <br><br>This home provides tons of curb appeal with its DOUBLE PORCHES that run the length of the home, perfect for enjoying Charleston's fantastic fall weather! Enter to find durable and lovely laminate flooring in the entryway and great room. The kitchen features light and bright WHITE CABINETRY and ceramic tile flooring. There are 3 sizeable bedrooms with carpet and two full bathrooms with ceramic tile flooring as well. This property also boasts 2 DESIGNATED OFF-STREET PARKING SPACES right in front of the house! <br><br>Currently, the home is being rented for $3,000 a month through May 31, 2022. The tenants also have 2 on-street parking permits. Schedule a showing to see this wonderful primary home or investment property today!"
     }
   ];
