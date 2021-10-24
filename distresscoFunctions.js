@@ -21,9 +21,7 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
       return;
     }
     var searchval = document.getElementById('filt');
-    
     var searchV = searchval.value;
-
     var found = globalDatabase.filter(house => house.listingTags.includes(searchV));
     
     if(found.length == 0) {console.log("Didn't find anything"); return;}
