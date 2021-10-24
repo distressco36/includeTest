@@ -22,10 +22,10 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
     }
     var searchval = document.getElementById('filt');
     var searchV = searchval.value;
-    console.log(searchV.toString());
+    //console.log(searchV.toString());
     var found = globalDatabase.filter(house => house.address.includes(searchV));
     window.alert(found[0].address);
-    if(found.length == 0) {console.log("Didn't find anything"); return;}
+    if(found.length == 0) {console.log("Didn't find anything"); console.log(searchV); return;}
     else {
       for(var i = 0; i < found.length; i++)
         {
