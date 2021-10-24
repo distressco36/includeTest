@@ -1,3 +1,1 @@
-
 window.alert("Hello World!");
-
