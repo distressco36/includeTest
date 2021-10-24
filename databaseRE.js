@@ -96,7 +96,7 @@ const globalDatabase = [
       embedded: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.01974857057!2d-80.07300508533692!3d32.73866629324807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88fe7e48cf07b489%3A0xac6d1d11b3fcf5ae!2s3271%20Dunwick%20Dr%2C%20Johns%20Island%2C%20SC%2029455%2C%20USA!5e0!3m2!1sen!2sca!4v1634986145576!5m2!1sen!2sca",
       address: "3271 Dunwick Dr, Johns Island, SC 29455",
       city: "Detailed Info",
-      listingTags: "featured 29455",
+      listingTags: "featured 294556",
       gallery: ["4ee17c63f08a08b2678ca7b6ed2db690","5ea46c8c4fd7f7a434f9a3f85a4f0796","46977af28fac09404787c072fb2ba178",
                 "767a3ffcbd4989fae4ad83a95c5953e7","2b89114a805b3b9856a72215f65509af","5855c38f21850ccd490c44634d6c7494",
                 "60d9808ae99d70953a284f819e6bd3c8","eac8cd3c85791ed3dd0175b5d06ffc34","46977af28fac09404787c072fb2ba178",
