@@ -202,10 +202,8 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
     var currentBid = formatter.format(houseSelected.price);
     var listingReference = houseSelected.listingRef;
     
-    
-	var url = "https://script.google.com/macros/s/AKfycbxhJEUMmzML7zCszHax304FRisFc-JEuvEi-kHJhpl1qTuZC1Rpza0nSFj0It1fGHA/exec?listingref=" + listingReference + "&min=" + applicantsBidMin + "&max=" + applicantsBidMax + "&asking=" + applicantsBidValue + "&initial=" + currentBid;
-	  
-	document.getElementById('submit-iframe').src = url;
+    var url = "https://script.google.com/macros/s/AKfycbxhJEUMmzML7zCszHax304FRisFc-JEuvEi-kHJhpl1qTuZC1Rpza0nSFj0It1fGHA/exec?listingref=" + listingReference + "&min=" + applicantsBidMin + "&max=" + applicantsBidMax + "&asking=" + applicantsBidValue + "&initial=" + currentBid;
+    document.getElementById('submit-iframe').src = url;
     document.getElementById('modalButton').click();
 
     return;
