@@ -20,7 +20,7 @@ const globalDatabase = [
       embedded: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3354.724334392741!2d-79.94147968533595!3d32.77304839149589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88fe7a1849386313%3A0x5e2e86ff0f4925a8!2s54%20Gibbes%20St%2C%20Charleston%2C%20SC%2029401%2C%20USA!5e0!3m2!1sen!2sca!4v1634907581067!5m2!1sen!2sca",
       address: "54 Gibbes St, Charleston, SC 29401",
       city: "Detailed Info",
-      listingTags: "29401",
+      listingTags: "featured 29401",
       gallery: ["642b20e6eb951b28e08e51a08040b1d0","834c67edc377122b2b27ccb10a23bd50","3704ef6c5aa003fb0123614a08a2c156",
                 "50ee3eff25ba4122edbbb6462da8e8da","e01ef68ba31b11793220616500bfad23","0ca79c6dc1aae3ca4fd959e1085714cf",
                 "60269be08f76a1dae90adbfcae4cfdf0","45d455db09d29579d0bfd24e7e573081","9a64bd87c6214ba6625a65498324b42a",
