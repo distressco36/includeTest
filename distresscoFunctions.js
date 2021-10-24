@@ -23,7 +23,7 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
     var searchval = document.getElementById('filt');
     var searchV = searchval.value;
     var found = globalDatabase.filter(house => house.address.includes(searchV));
-    
+    window.alert(found[0].address);
     if(found.length == 0) {console.log("Didn't find anything"); return;}
     else {
       for(var i = 0; i < found.length; i++)
