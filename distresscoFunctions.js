@@ -1,7 +1,4 @@
-const formatter = new Intl.NumberFormat('en-US', {
-      minimumFractionDigits: 0,
-      maximumFractionDigits: 0,
-  });
+const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maximumFractionDigits: 0,});
 
   var barDisplay = 0;
   var currentGallery = 0; 
