@@ -5,7 +5,7 @@ const globalDatabase = [
       address: "381 Ralston Creek St, Daniel Island, SC 29492",
       city: "Detailed Info",
       listingTags: "featured 381 Ralston Creek St, Daniel Island, SC 29492",
-      gallery: ["8d1d049f6a8eb05608b47bf83b36ef5e","f463ca9f6f3aeb5fb225a109da182319","feb595a497b575df755fb360563f68c0","b4a2687e322fab3c0e8c130de5c4bb48",
+      gallery: ["f463ca9f6f3aeb5fb225a109da182319","feb595a497b575df755fb360563f68c0","b4a2687e322fab3c0e8c130de5c4bb48",
                 "ba124a3e735af85675ea5a431a446d51","87be561c19eb2d722cc629d5fbb1fa05","57da2ac14d1a792bb485ee01ca6a9c48","370a356a2fe559ac17e489e124439496",
                 "35c78c003be2b7b5a6add560d7bf4bbb","e7096018047a623bcca00a5e6cc266ef","be827044fde68b5ecda84190c586eff2","e7ec1773ca7c6146410144d0843c9bbc",
                 "04733ae87473e07ff75ddbb9d3c45e4e","bc9b5e84164a90c5b38644f47937cc9d","5af1cff008fbbcd6c13bfaed23ef26c9","27fad78171e035bb6eea36f8a0e912e2",
