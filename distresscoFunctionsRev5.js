@@ -132,7 +132,7 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
 
   function displayGallery(listingref) {
     
-    document.getElementById('navbar').style.display = "none";
+    document.getElementById('navbar-wrapper').style.display = "none";
 
     var houseSelected = globalDatabase.find(house => house.listingRef.includes(listingref));
     currentGallery = houseSelected.gallery;
@@ -156,7 +156,7 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
     outerDiv.appendChild(galleryImage);
 
     const closeButton = document.createElement('button');
-    closeButton.addEventListener('click', function() {document.getElementById('outerDiv').remove(); document.getElementById('navbar').style.display = "block";});
+    closeButton.addEventListener('click', function() {document.getElementById('outerDiv').remove(); document.getElementById('navbar-wrapper').style.display = "block";});
     closeButton.className = "gallery-close-btn";
     closeButton.innerHTML = "&times;"
     backgroundScreen.appendChild(closeButton);
