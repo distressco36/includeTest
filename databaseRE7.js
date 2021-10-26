@@ -1,5 +1,27 @@
 const globalDatabase = [
     {
+      listingRef: "LDBN6POG3652CRO",
+      embedded: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1228.2640192884292!2d-81.3022120430199!3d42.92936718349535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882ef1c8d8495c75%3A0x678a10b6d39367cb!2s6528%20Crown%20Grant%20Rd%2C%20London%2C%20ON%20N6P%200A8!5e0!3m2!1sen!2sca!4v1635243863877!5m2!1sen!2sca",
+      address: "6528 Crown Grant Rd, London, ON N6P 0G3",
+      city: "Detailed Info",
+      listingTags: "featured 6528 Crown Grant Rd, London, ON N6P 0G3",
+      gallery: ["bef4d8e8e7977d7c73238f3cfe42e039","41b2ed66412b6ca708e7e776e8f8089f","13fddea90229446c2c10b8975228c4d0",
+                "d74d4a79ef53d8511fd483992b5249c4","898c830e3ba2462975f6204665a6849f","e105d36dbab8122320772a05152c5ddd","a00210f6c77eb0315b209841f0d95dff",
+                "91286ae985b150874d97d8ba64fc6f1e","9001188ad0e3f63af151fe39e52f63c4","2f2c352f33224994016f0d3cd6d26c6a","80eacd3681b4ab2971c8a9fb5bf3bb97",
+                "ec2cce680a44334c2b013946110180e4","2bf1ce12cf3699efe5e4b018fd4baf6b","63e914dc8fcea2ceaa623f802bcf7f39","62dcf5db2b56ed74e9ff3e8a39370242",
+                "c2cdcdb45584aba1489f6455f6d35461","0bd1aefe3521c1d23a1930aa3b2f5d22","c6e16f9f44b3468f8d9580c45b3d91bb","68e3e4459cefa615c4e6953b0b0359d4",
+                "cac1ed3dfa5f1bf22aa427f79102e05a","c5e7274755103582e7c59af594f34958","b1126870a83cc0720b2685bbafa889ea","40db6ca51979d17d912b6555c2b894ba",
+                "3e71726318902ed0d409058eba6991fd","f306d4954139d8dfd729437ab583495d","9fdc50fca3b462c5ae3049608f8ec8b7","a4d3c740dcf6f050c2c45a94896ff0f6",
+                "8d7bd9a1044133d6f4c2e5d611ec3f53","5e34a210374f51c136c0f53b1a33afce","27e061a0748eb58e12e705cfa08bf995","11d208fcadd78cdf734fda1bd20686d1",
+                "de551f0a9c37e47b498ea57e658096c5","ce4f4cba7cc11af942c3d5f998e1e04d","c8baf071ca9a11030092ac67c7288a66","364fb4f3104fb39631d55de0a511896b",
+                "4ea83c7bbd14e9509e8f7bcc82c71d97","4f60843636c7d67219c3253d1226dee8","39c5b74b1c25cb923c76d7f6c9bd24d4","c193aff9f4318752e75bd8c4799bd938",
+                "5913dc2fe29b11ddb679ec66daf7344e","db6a0e2596cd0545a48b9923df1abb7c","3b5ddb24842df709f0143996868a8c49","07bb843fcc438ff9339190e043c4414d",
+                "19f1dff42407744c9a706574c73b4d3e","38afec7e778b85c841783def544d7746","a2c56fdf8539d2d0b8ea6f88a1be066c","220039e25e9153a6915ebfab389fd215",
+                "5e7014ee1a7c07d0c0f41fe97b5a380d"],
+      bed: "4",bath: "6",park: "2",sqft: "4871",circa: "2020",price: "1789000",certified: "",
+      description: "Magnificent 4 Bdrm+Loft & 6 Bath Custom Built Home W/ Modern Luxury & Design Detail In Mind. Open Concept Main Floor W/ Impressive 2 Story Foyer, 10' High Ceilings & 8' Doors, A Chef's Dream Kitchen W/ Quality Line Appliances, Exquisite Granite Countertops, Walk-In Pantry & Butler/Buffet. Sep Family & Dining Rm. Hand Scraped Premium Hardwood Floor. Master Bedroom W/Luxury 5Pc Ensuite & Large Walk-In Closet. Aggregate Concrete Driveway W/Stone Landscaping.    Finished Bsmt W/ 9' Ceiling & Huge Media & Rec Rm. Designer Light Fixtures, In Ceiling Multi Zone Speaker System On Main Flr & Outside Patio, Modern Upgraded Trim Throughout, 8 Zone Sprinkler System, Wired Smart Home & Pool Size Backyard. Offer Anytime."
+    },
+    {
       listingRef: "LDB29492381RAL",
       embedded: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3351.0705860792073!2d-79.89865298533333!3d32.86985178655436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88fe6fc024364f91%3A0xb974479a29897622!2s381%20Ralston%20Creek%20St%2C%20Charleston%2C%20SC%2029492%2C%20USA!5e0!3m2!1sen!2sca!4v1635183984352!5m2!1sen!2sca",
       address: "381 Ralston Creek St, Daniel Island, SC 29492",
