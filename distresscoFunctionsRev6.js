@@ -8,18 +8,15 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
   function fillDisplayWindow() {
 
     if(document.getElementById('filt').value == '') {return;}
-
-    if(document.getElementById('filt').value == 'deleteall'){
-      var getall = document.getElementsByClassName('listing');
-      if(getall.length == 0){document.getElementById('filt').value = ""; return;}
+    
+    var getall = document.getElementsByClassName('listing');
+    if(getall.length != 0){
       const bound = getall.length;
-      
-      for(var i = 0; i < bound; i++){
-        getall[0].remove();
-      }
-      document.getElementById('filt').value = "";
-      return;
+        for(var i = 0; i < bound; i++){
+          getall[0].remove();
+        }
     }
+    
     var searchval = document.getElementById('filt');
     var searchV = searchval.value;
    
@@ -27,11 +24,11 @@ const formatter = new Intl.NumberFormat('en-US', {minimumFractionDigits: 0, maxi
     
     if(found.length == 0) {console.log("Didnt find anything"); return;}
     else {
-      for(var i = 0; i < found.length; i++)
-        {
-          createIndividualListing(found[i]);
-        }
-      }
+          for(var i = 0; i < found.length; i++)
+              {
+                createIndividualListing(found[i]);
+              }
+          }
     document.getElementById('filt').value = "";
     return;
   }
