@@ -1,5 +1,26 @@
 const globalDatabase = [
     {
+      listingRef: "LDBN6A3J5966RIC",
+      embedded: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2917.847804554906!2d-81.25862638501698!3d43.00253920227815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882eee0660881447%3A0xceafb9614e2ff142!2s966%20Richmond%20St%2C%20London%2C%20ON%20N6A%203J5!5e0!3m2!1sen!2sca!4v1635245060854!5m2!1sen!2sca",
+      address: "966 Richmond St, London, ON N6A 3J5",
+      city: "Detailed Info",
+      listingTags: "featured 966 Richmond St, London, ON N6A 3J5",
+      gallery: ["48c74c721362ce5c98289b57135f5176","383e090bc38912f985bff71ddd8654cd","6a2f078e8a3b53a29cf4c83ce8e33c19",
+                "6f6318697e4733c0d78188d57d761813","07b85275f033adcc7fea2f9c88ec8b1f","6a32b0354d2b811152f53b605c25c5e2","499a7e0078588719051678ed2e2d1908",
+                "5f7f8ebde40e26627d7e8f99a6bfc880","1b59554ac74c6d89c6d3df921dee114e","be5671a7632b4fa17f2853872e2f48a0","a150864df978cb6ef19572cbd3494513",
+                "a0959d76fa2afebbc0acb3a639c91a64","299ff4aac8c27550365dc8358b6de75f","03fca52d905622feaa478859c68a2fc2","5eba2731edb0790c9ac45b7cfdc093da",
+                "c4f97d54c02d0b24965a7ffe32998e8d","86b83650c6cd52629db079360df98748","796a2c4a4d9dde0cc491542f0b1faf76","3848a7a603efabaf881d8376bb3b2d3a",
+                "1c541a93169c58c3ffff89504aaebadf","3f4f85603588fbaa6ff3252cb1053b3c","3a826e4a7c36bdc379973a33a0580070","b47658ee80eccfec5be3f4781c49a01e",
+                "ae6ea0fc3c18e10dbd336a7a7631795b","c51a7f60b10f67e80744aa174c2c0adc","0c4680c62578e71f69e64330a2f498ff","26791cf4e0840751cf1ce1c4e38cf032",
+                "76aed111fc09d6942823f0ae574977d8","fa36727b3928dd437f749b7067ed886d","51a9a5b549da2b96d225172841903a42","c43ed1e4d2552f1e1785898bf6bfa2fe",
+                "f077901413f3757bbe1bc79a1614c1ce","a9c5a8c141bd6bf969c33075dbdc9d03","aae944908bff25900d686bcf72771f9d","87cdf0b8096b1b090f53e891ce2797e5",
+                "24b4da073c9b7916cdbf14f81da2d7b1","a6baafa6bfc7e8b0cfaf714ef49e2d78","9db69cdbff371914f2ee30ca52bd1ad6","e160d8ef2083d5049223432f0f0b98ab",
+                "a6af96ee9eecfede343408124a279e05","f627f2d29dcc82db3f0e858431f0b86d","85d1a9830e2e4c19af3a96a9f1b1bcfe","81eb767be2d458b97d3ee4016a310b55",
+                "1da3b54aaaeb4c03e6830539a13cdb02","174a54f85af2cdfc4b18a4bc0641d7cc","331dae190e5c2ba09c18691626fb1dba","c761867c82ec1c861d2eafe1b495b893"],
+      bed: "5",bath: "4",park: "2",sqft: "3650",circa: "1913",price: "1429000",certified: "",
+      description: "This beauty displays one of the most noteworthy & captivating facades you will encounter driving through Old North toward downtown London. The timeless romance of the arched entry opens to a myriad of century home features including the rich solid wood staircases, millwork & built-in cabinetry displayed in the hallways & dining room. Main floor offers a private office, large living room w/ fireplace, dining room accented by French doors, beautifully updated kitchen and dinette overlooking the backyard. 5 bedrooms + 3 updated full bathrooms + powder room. 2nd floor den + office w/ loads of natural light. 3rd floor adds princess suite w/ ensuite, bonus room & bedroom. Finished lower level adds large rec room w/ full bathroom, wet bar & stove/fridge h/u + large pantry & sauna. Fantastic parking + 2 car garage & turn around for vehicles. Spectacular staycation - fully fenced, private, quiet oasis w/ large heated pool, patios, deck in the 240 ft deep lot! Gorgeous pergola w/ lighting adjacent to the hot tub - a perfect way to end the evening w/ uplighting accenting the mature trees. All newer windows throughout! Updated electrical. Roof on house, garage, shed 2018. Pool liner approx 5 years, pump 2 years. Walk to Ryerson P.S. & Central S.S. two of the most sought after schools in London. Close to Western University, St. Joes hospital & the downtown business center. Multiple office spaces & a backyard retreat make this an ideal work-from- home/staycation combo."
+    },
+    {
       listingRef: "LDBN6POG3652CRO",
       embedded: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1228.2640192884292!2d-81.3022120430199!3d42.92936718349535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882ef1c8d8495c75%3A0x678a10b6d39367cb!2s6528%20Crown%20Grant%20Rd%2C%20London%2C%20ON%20N6P%200A8!5e0!3m2!1sen!2sca!4v1635243863877!5m2!1sen!2sca",
       address: "6528 Crown Grant Rd, London, ON N6P 0G3",
